@@ -1,2 +1,2 @@
 # Codsoft
-Jvava internship task 1
+Java internship task 1
