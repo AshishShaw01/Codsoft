@@ -7,7 +7,7 @@ public class numbergame{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
-        int maxTries = 7;
+        int maxTries = 5;
         int score = 0;
         boolean playAgain;
 
